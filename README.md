@@ -39,5 +39,5 @@ To set up and run the project on your local machine, follow these steps:
 ## Contributors
 This project was developed by:
 
-* **Mohamed Abdrabou** ([GitHub: MohamedAbdrabou12](https://github.com/MohamedAbdrabou12))
+* **Mohamed Abdrabou** ([GitHub: MohamedAbdrabou12]([https://github.com/MohamedAbdrabou12)])
 * **Bahaa**
